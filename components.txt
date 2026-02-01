@@ -1,0 +1,6 @@
+Components Used:
+- Arduino UNO
+- MQ-135 Gas Sensor
+- Buzzer
+- Jumper Wires
+- Cloud Dashboard (concept)
